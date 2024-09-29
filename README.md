@@ -1,12 +1,8 @@
-Here’s the README in plain text format:
-
----
-
 # SOL Splash: A Solana Airdrop DApp
 
 Welcome to SOL Splash! This innovative decentralized application allows you to effortlessly connect your Solana wallet and receive SOL airdrops in just a few clicks. Designed for both newcomers and seasoned crypto enthusiasts, SOL Splash simplifies the airdrop process and enhances your experience in the vibrant Solana ecosystem.
 
-![Airdrop Screenshot](.assets/solana-airdrop-dapp.png) 
+![Airdrop Screenshot](./assets/solana-airdrop-dapp.png) 
 
 ## Features
 
@@ -82,11 +78,3 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/MyFeature`).
 5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
---- 
-
-Feel free to use this text as needed!
